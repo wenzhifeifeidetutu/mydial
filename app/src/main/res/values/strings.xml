@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mydial</string>
+    <string name="dial">拨号</string>
+    <string name="connection">联系人</string>
+</resources>
